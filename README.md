@@ -1,6 +1,6 @@
-# Deep_Learning 
+# Deep_Learning
 
-Labs of the course *Deep Learning I*, taught at *Telecom ParisTech* by Geoffroy Peeters and Alasdair Newton, in the context of the Master 2 Data Science, delivered by Ecole Polytechnique.
+Labs of the course *Deep Learning I*, taught at *Telecom ParisTech* by [Geoffroy Peeters](https://perso.telecom-paristech.fr/gpeeters/index.htmland) and [Alasdair Newson](https://sites.google.com/site/alasdairnewson/), in the context of the Master 2 Data Science, delivered by Ecole Polytechnique.
 
 - Lab 1 : 
   - First TP on how to implement a Multi-Layer Perceptron (MLP) in Python, for a classification problem
